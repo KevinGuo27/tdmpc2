@@ -1,0 +1,8 @@
+gymnasium
+jax[cpu]
+flax
+optax
+-e .
+tqdm
+numpy
+pytest
